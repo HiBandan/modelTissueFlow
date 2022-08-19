@@ -31,4 +31,6 @@ Option 2: Clone from terminal:
 
 ## Testing the package
 
-An example of use of this package can be found in the folder: example
+An example of use of this package can be found in the folder: example (https://github.com/HiBandan/modelTissueFlow)
+
+
