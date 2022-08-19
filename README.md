@@ -4,6 +4,11 @@ This is a program for analyzing time series movies for computing tissue velocity
 
 Application: https://www.biorxiv.org/content/10.1101/2022.07.13.499934v1
 
+## Note
+
+The modelTissueFlow python version is still in its *beta* state. Testing and contributing
+is very welcome, especially if you can contribute with new algorithms and features.
+
 ## Installing
 
 Use PyPI (<https://pypi.org/project/modelTissueFlow/0.1/>):
