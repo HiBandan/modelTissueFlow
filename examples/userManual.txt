@@ -1,10 +1,18 @@
-#######################################################################
-# This file explains how to use the programs: analysis.py and plot.py #
-#######################################################################
-The routine 'analysis.py' allows to analyse velocity-field (piv) and myosin (also other geometric quantities, such as curvature, cell-height etc.) on the sagittal section of drosophila embryo. The analysed data can viewed by the routine 'plot.py'. 
+######################################################################################
+# This file explains how to use the programs: movie_read.py, analysis.py and plot.py #
+######################################################################################
+1. movie_read.py: 
+contains information about how to read the input image data (images of sagittal section of drosophila embryo) located in the movie folders (movie_1 and movie_2). 
+
+A typical movie folder contains three sub-folders, namely MEM (frames from membrane channel) , MYO (frames from myosin channel) and MARKERS (contains segmented frames, where only the parts reflecting the epithelial tissue and the associted myosin signal is kept)
+
+2. analysis.py: allows to analyse velocity-field (piv) and myosin (also other geometric quantities, such as curvature, cell-height etc.) . The analysed data can viewed by the routine 'plot.py'. 
 
 ** modules used from modelTissueFlow are:'tissueFlow1D' and 'inOutTools'
 
+#*************#
+# analysis.py #
+#*************#
 
 
 
