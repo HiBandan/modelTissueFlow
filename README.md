@@ -12,7 +12,7 @@ Use PyPI (<https://pypi.org/project/modelTissueFlow/0.1/>):
 
 ## To build from source
 
-Option 1: Download the package from the Github:https://github.com/HiBandan/modelTissueFlow/archive/refs/heads/main.zip , unzip and run
+Option 1: Download the package from the Github:https://github.com/HiBandan/modelTissueFlow/archive/refs/heads/main.zip
 
     python setup.py install (where ? modelTissueFlow)
     
