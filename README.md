@@ -2,7 +2,7 @@
 
 This is a program for analyzing time series movies for computing tissue velocity (PIV) and other signals (myosin)
 
-Application: [DOI](https://www.biorxiv.org/content/10.1101/2022.07.13.499934v1)
+Application: [DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4409178.svg)](https://www.biorxiv.org/content/10.1101/2022.07.13.499934v1)
 
 ## Installing
 
