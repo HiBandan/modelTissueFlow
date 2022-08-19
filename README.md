@@ -31,8 +31,4 @@ Option 2: Clone from terminal:
 
 ## Testing the package
 
-An example of use of this package can be found in the folder: example 
-
-1. analysis.py (uses:movie_read.py,analysis_parameters.txt)
-
-3. plot.py (uses:movie_read.py,plot_parameters.txt)
+An example of use of this package can be found in the folder: example
