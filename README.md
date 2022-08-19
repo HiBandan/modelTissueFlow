@@ -10,7 +10,7 @@ pip install modelTissueFlow==0.1
 
 ### To build from source
 
-Download the package from the Github: https://github.com/OpenPIV/openpiv-python/archive/master.zip
+Download the package from the Github: https://github.com/HiBandan/modelTissueFlow/archive/refs/heads/main.zip
 or clone using git
 
     git clone https://github.com/HiBandan/modelTissueFlow.git
