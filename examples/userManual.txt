@@ -1,3 +1,10 @@
 #######################################################################
 # This file explains how to use the programs: analysis.py and plot.py #
 #######################################################################
+The routine 'analysis.py' allows to analyse velocity-field (piv) and myosin (also other geometric quantities, such as curvature, cell-height etc.) on the sagittal section of drosophila embryo. The analysed data can viewed by the routine 'plot.py'. 
+
+** modules used from modelTissueFlow are:'tissueFlow1D' and 'inOutTools'
+
+
+
+
