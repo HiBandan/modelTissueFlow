@@ -7,7 +7,8 @@ Application: https://www.biorxiv.org/content/10.1101/2022.07.13.499934v1
 ## Installing
 
 Use PyPI: <https://pypi.org/project/modelTissueFlow/0.1/>:
-pip install modelTissueFlow==0.1
+
+    pip install modelTissueFlow==0.1
 
 ## To build from source
 
