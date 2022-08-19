@@ -14,7 +14,7 @@ pip install modelTissueFlow==0.1
 Download the package from the Github: 
     https://github.com/HiBandan/modelTissueFlow/archive/refs/heads/main.zip
 
-Or clone using git: 
+Or clone from terminal using git: 
 
     git clone https://github.com/HiBandan/modelTissueFlow.git
 
