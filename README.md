@@ -17,4 +17,4 @@ or clone using git
 
 Manual installation: in terminal go to the folder containing the file 'setup.py'
 
-python setup.py install
+    python setup.py install
