@@ -6,8 +6,7 @@ Application: https://www.biorxiv.org/content/10.1101/2022.07.13.499934v1
 
 ## Note
 
-The modelTissueFlow python version is still in its *beta* state. Testing and contributing
-is very welcome, especially if you can contribute with new algorithms and features.
+Testing and contributing is very welcome, especially if you can contribute with new algorithms and features.
 
 ## Installing
 
