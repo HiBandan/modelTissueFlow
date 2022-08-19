@@ -19,6 +19,6 @@ Or clone using git:
 
     git clone https://github.com/HiBandan/modelTissueFlow.git
 
-In modelTissueFlow folder:
+#### In modelTissueFlow folder:
 
     python setup.py install
