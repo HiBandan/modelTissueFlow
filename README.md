@@ -9,10 +9,13 @@ Application: https://www.biorxiv.org/content/10.1101/2022.07.13.499934v1
 Use PyPI: <https://pypi.org/project/modelTissueFlow/0.1/>:
 pip install modelTissueFlow==0.1
 
-### To build from source
+## To build from source
 
-Download the package from the Github: https://github.com/HiBandan/modelTissueFlow/archive/refs/heads/main.zip
-or clone using git
+Download the package from the Github: 
+
+https://github.com/HiBandan/modelTissueFlow/archive/refs/heads/main.zip
+
+Or clone using git
 
     git clone https://github.com/HiBandan/modelTissueFlow.git
 
