@@ -28,3 +28,7 @@ Option 2: Clone from terminal:
     git clone https://github.com/HiBandan/modelTissueFlow.git
 
     python setup.py install 
+
+## Testing the package
+
+An example of use of this package can be found in the folder: example 
