@@ -32,3 +32,5 @@ Option 2: Clone from terminal:
 ## Testing the package
 
 An example of use of this package can be found in the folder: example 
+
+1. analysis.py
