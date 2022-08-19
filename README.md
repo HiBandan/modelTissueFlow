@@ -19,4 +19,4 @@ Option 2: Clone from terminal:
 
     git clone https://github.com/HiBandan/modelTissueFlow.git
 
-    python setup.py install
+    python setup.py install (located in modelTissueFlow)
