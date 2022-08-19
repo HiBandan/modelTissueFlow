@@ -15,10 +15,4 @@ or clone using git
 
     git clone https://github.com/HiBandan/modelTissueFlow.git
 
-Using distutils create a local (in the same directory) compilation of the Cython files:
-
-    python setup.py build_ext --inplace
-
-Or for the global installation, use:
-
-    python setup.py install 
+Manual installation: in terminal go to the folder containing the file 'setup.py' and run -> python setup.py install
