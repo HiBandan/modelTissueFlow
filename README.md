@@ -14,10 +14,10 @@ Use PyPI (<https://pypi.org/project/modelTissueFlow/0.1/>):
 
 Option 1: Download the package from the Github:https://github.com/HiBandan/modelTissueFlow/archive/refs/heads/main.zip
 
-    python setup.py install (where ? modelTissueFlow)
+    python setup.py install 
     
 Option 2: Clone from terminal: 
 
     git clone https://github.com/HiBandan/modelTissueFlow.git
 
-    python setup.py install (where ? modelTissueFlow) 
+    python setup.py install 
