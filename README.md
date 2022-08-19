@@ -15,6 +15,6 @@ or clone using git
 
     git clone https://github.com/HiBandan/modelTissueFlow.git
 
-Manual installation: in terminal go to the folder containing the file 'setup.py'
+In modelTissueFlow folder
 
     python setup.py install
