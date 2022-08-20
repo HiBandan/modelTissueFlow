@@ -13,7 +13,7 @@ Testing and contributing is very welcome, especially if you can contribute with 
 
 ## Installing
 
-Use PyPI (<https://pypi.org/project/modelTissueFlow/0.2/>):
+Use PyPI (<https://pypi.org/project/modelTissueFlow/>):
 
     pip install modelTissueFlow==0.2
 
