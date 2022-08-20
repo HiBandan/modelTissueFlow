@@ -15,7 +15,7 @@ Testing and contributing is very welcome, especially if you can contribute with 
 
 Use PyPI (<https://pypi.org/project/modelTissueFlow/>):
 
-    pip install modelTissueFlow==0.2
+    pip install modelTissueFlow
 
 ## To build from source
 
