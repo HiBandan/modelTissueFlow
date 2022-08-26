@@ -1,0 +1,25 @@
+###################
+# reference-frame #
+###################
+view_myo_masks  False
+view_reference_frames  False
+view_reference_mark_tracking  False
+
+#######
+# piv #
+#######
+piv_scale_factor  100.0
+view_bulk_piv  True
+view_piv_myo_together   False
+view_piv_myo_separately  False
+view_piv_oriented_color  False
+
+#################
+# image-texture #
+#################
+brightNess   60 
+invert_RGB  False
+view_posterior_domain False
+
+
+
