@@ -1,6 +1,6 @@
 # modelTissueFlow
 
-![alt text](https://github.com/HiBandan/modelTissueFlow/blob/main/examples/logo/logoModelTissueFlow-2.0.png)
+![alt text](https://github.com/HiBandan/modelTissueFlow/blob/main/logo/logoModelTissueFlow-2.0.png)
 
 
 This is a program for analyzing time series movies for computing tissue velocity (PIV) and other signals (myosin)
