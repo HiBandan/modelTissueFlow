@@ -1,1 +1,12 @@
+##############
+# Installing #
+##############
+pip install modelTissueFlow
+
+########################
+# To build from source #
+########################
+Download the package from the Github:https://github.com/HiBandan/modelTissueFlow/archive/refs/heads/main.zip
+python setup.py install 
+    
 
