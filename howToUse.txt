@@ -1,2 +1,0 @@
-
-After installing 'modelTissueFlow' (using pip or building from soure) an user should be able to import various modules as described below:
