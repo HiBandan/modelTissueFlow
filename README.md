@@ -9,7 +9,7 @@ Application: https://www.biorxiv.org/content/10.1101/2022.07.13.499934v1
 
 ## Note
 
-Testing and contributing is very welcome, especially if you can contribute with new algorithms and features.
+Testing and contributing is very welcome, especially if you can contribute with new algorithms and features. In case of an issue please contact at: bandan13@gmail.com  
 
 ## Installing
 
