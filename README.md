@@ -3,7 +3,9 @@
 ![alt text](https://github.com/HiBandan/modelTissueFlow/blob/main/logo/logoModelTissueFlow-2.0.png)
 
 
-This is a program for analyzing time series movies for computing tissue velocity (PIV) and other signals (myosin)
+This is a program for:
+1. Image analysis: analyzing time series movies for computing tissue velocity (PIV) and other signals (myosin)
+2. Modelling: fitting continuum model equation to experimental data 
 
 Application: https://www.biorxiv.org/content/10.1101/2022.07.13.499934v1
 
