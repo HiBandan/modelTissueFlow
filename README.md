@@ -7,7 +7,7 @@ This is a program for:
 1. Image analysis: analyzing time series movies for computing tissue velocity (PIV) and other signals (myosin)
 2. Modelling: fitting continuum model equation to experimental data 
 
-Application: https://www.biorxiv.org/content/10.1101/2022.07.13.499934v1
+Application: https://www.pnas.org/doi/10.1073/pnas.2214205120
 
 ## Note
 
